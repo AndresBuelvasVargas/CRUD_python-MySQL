@@ -1,0 +1,385 @@
+06:32:41 PM: DEBUG [logger_base.py:12] Mensaje a nivel debug
+06:49:11 PM: DEBUG [Persona.py:42] 
+            Id Persona: 1, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+06:52:49 PM: DEBUG [Persona.py:42] 
+            Id Persona: 1, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+06:52:49 PM: DEBUG [Persona.py:46] 
+            Id Persona: None, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+06:54:55 PM: DEBUG [Persona.py:42] 
+            Id Persona: 1, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+06:54:55 PM: DEBUG [Persona.py:46] 
+            Id Persona: None, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+06:54:55 PM: DEBUG [Persona.py:50] 
+            Id Persona: 1, Nombre: None,
+            Apellido: None, Email: None
+        
+07:18:21 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000026C59A17F40>
+07:18:58 PM: ERROR [conexion.py:25] Ocurrió una excepción (2003, "Can't connect to MySQL server on 'localhos' ([Errno 11001] getaddrinfo failed)")
+07:19:09 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000020288F97F40>
+07:20:02 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001FC65507F70>
+07:20:02 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001FC675AC670>
+04:34:20 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000019320D17FA0>
+04:35:56 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000002D30B267FA0>
+04:35:56 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000002D30B267F70>
+04:37:39 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000020481187FA0>
+04:37:39 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000020481187F70>
+04:38:50 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000198154D7F70>
+04:38:50 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000198175CC670>
+04:39:01 PM: DEBUG [Persona.py:42] 
+            Id Persona: 1, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+04:39:01 PM: DEBUG [Persona.py:46] 
+            Id Persona: None, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+04:39:01 PM: DEBUG [Persona.py:50] 
+            Id Persona: 1, Nombre: None,
+            Apellido: None, Email: None
+        
+04:39:52 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000189AF837FA0>
+04:39:52 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000189AF837F70>
+04:40:11 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000260DC1E7FA0>
+04:40:11 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000260DC1E7F70>
+04:44:05 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000234704A7FA0>
+04:44:05 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000234704A7F70>
+04:47:19 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000270138F7FA0>
+04:47:19 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000270138F7F70>
+04:50:56 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000205C40F7FA0>
+04:50:56 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000205C40F7F70>
+04:55:41 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F4314A7FA0>
+04:55:41 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001F4314A7F70>
+04:57:31 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001E1DA957FA0>
+04:57:31 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001E1DA957F70>
+04:58:30 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000156B5C07FA0>
+05:00:25 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000017A447B7FA0>
+05:00:25 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 1, Nombre: Juan,
+            Apellido: andres@gmail.com, Email: 123
+        
+05:00:25 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 2, Nombre: samely,
+            Apellido: samely@gmail.com, Email: 321
+        
+05:03:01 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000249202A7FA0>
+05:03:01 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 1, Nombre: Juan,
+            Apellido: andres@gmail.com, Email: 123
+        
+05:03:01 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 2, Nombre: samely,
+            Apellido: samely@gmail.com, Email: 321
+        
+05:03:01 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 3, Nombre: pan,
+            Apellido: pan@gmail.com, Email: 456
+        
+05:10:29 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000020C551A7FA0>
+05:10:29 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 1, Nombre: Juan,
+            Apellido: andres@gmail.com, Email: 123
+        
+05:10:29 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 2, Nombre: samely,
+            Apellido: samely@gmail.com, Email: 321
+        
+05:10:29 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 3, Nombre: pan,
+            Apellido: pan@gmail.com, Email: 456
+        
+05:11:43 PM: DEBUG [Persona.py:50] 
+            Id Persona: 1, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+05:11:43 PM: DEBUG [Persona.py:54] 
+            Id Persona: None, Nombre: Andres,
+            Apellido: Buelvas, Email: andy@gmail.com
+        
+05:11:43 PM: DEBUG [Persona.py:58] 
+            Id Persona: 1, Nombre: None,
+            Apellido: None, Email: None
+        
+05:12:51 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001BB6BA17F70>
+05:12:51 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001BB6DABC670>
+05:12:57 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000020E04E57FA0>
+05:12:57 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 1, Nombre: Juan,
+            Email: andres@gmail.com, Password: 123
+        
+05:12:57 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+05:12:57 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+05:14:53 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000023BC73E7FA0>
+05:14:53 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 1, Nombre: Juan,
+            Email: andres@gmail.com, Password: 123
+        
+05:14:53 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+05:14:53 PM: DEBUG [persona_dao.py:29] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+05:28:53 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F61118A590>
+05:28:53 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:28:53 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:30:03 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000026A18A1A590>
+05:30:03 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:30:03 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:35:09 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018BF89AA590>
+05:35:09 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000018BF89AAEC0>
+05:36:46 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000178482CA5F0>
+05:37:30 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001B2D6DCA5F0>
+05:37:30 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:37:30 PM: DEBUG [persona_dao.py:41] Personas insertadas: 1
+05:37:30 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001B2D6DCAF20>
+05:40:41 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001BA2D37A560>
+05:40:41 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:40:41 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:40:41 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001BA2D37AE90>
+05:42:30 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000023275F1A590>
+05:42:30 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:42:30 PM: DEBUG [persona_dao.py:41] Personas insertadas: 1
+05:43:37 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000278561E2530>
+05:43:37 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:43:37 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:44:56 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001EE91192500>
+05:44:56 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:44:56 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:45:14 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000268B8672500>
+05:45:14 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:45:14 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:45:14 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000268B8672E30>
+05:46:54 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F8B7042530>
+05:46:54 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:46:54 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:48:10 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000021E73D8A590>
+05:48:10 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:48:10 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:52:01 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001CEB5172530>
+05:52:01 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:52:01 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:52:54 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000261D4002530>
+05:52:54 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:52:54 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:56:00 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025F910CA590>
+05:56:00 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+05:56:00 PM: DEBUG [persona_dao.py:41] Personas insertadas: 1
+05:56:28 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001D57E8A7F70>
+05:56:28 PM: DEBUG [persona_dao.py:46] 
+            Id Persona: 1, Nombre: Juan,
+            Email: andres@gmail.com, Password: 123
+        
+05:56:28 PM: DEBUG [persona_dao.py:46] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+05:56:28 PM: DEBUG [persona_dao.py:46] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+05:59:23 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001804B1E7F70>
+05:59:23 PM: DEBUG [persona_dao.py:47] 
+            Id Persona: 1, Nombre: Juan,
+            Email: andres@gmail.com, Password: 123
+        
+05:59:23 PM: DEBUG [persona_dao.py:47] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+05:59:23 PM: DEBUG [persona_dao.py:47] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+06:00:18 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F964212410>
+06:00:18 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+06:00:18 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+06:01:14 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025AB70EA5F0>
+06:01:14 PM: DEBUG [persona_dao.py:34] Persona insertada: 
+            Id Persona: None, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+06:01:14 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+06:13:51 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000217F4C3F340>
+06:13:51 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            Id Persona: 1, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+06:13:51 PM: DEBUG [persona_dao.py:63] Personas insertadas: 1
+06:15:22 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001E460C3F370>
+06:15:22 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001E460C3F010>
+06:17:09 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001E24DEEF430>
+06:17:09 PM: DEBUG [persona_dao.py:45] Persona actualizada: 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+06:17:09 PM: DEBUG [persona_dao.py:64] Personas actualizadas: 1
+06:24:26 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x00000272F2D6B6A0>
+06:24:26 PM: DEBUG [persona_dao.py:55] Persona eliminada: 
+            Id Persona: 18, Nombre: None,
+            Email: None, Password: None
+        
+06:24:26 PM: DEBUG [persona_dao.py:80] Personas eliminadas: 1
+12:31:15 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000002161031B910>
+12:31:15 PM: DEBUG [persona_dao.py:69] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+12:31:15 PM: DEBUG [persona_dao.py:69] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+12:31:15 PM: DEBUG [persona_dao.py:69] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+12:31:15 PM: DEBUG [persona_dao.py:69] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+12:31:15 PM: DEBUG [persona_dao.py:69] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+12:33:34 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001815BE77C40>
+12:33:34 PM: DEBUG [persona_dao.py:35] Persona insertada: 
+            Id Persona: None, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+12:33:34 PM: DEBUG [persona_dao.py:64] Personas insertadas: 1
+12:58:01 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001B19DE07F70>
+12:58:01 PM: DEBUG [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001B19FEAC670>
+03:00:55 PM: DEBUG [conexion.py:22] Conexión exitosa: <pymysql.connections.Connection object at 0x000001658E51C490>
+03:00:55 PM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+03:00:55 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+03:00:55 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+03:00:55 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+03:00:55 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+03:00:56 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+03:05:25 PM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+03:05:25 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+03:05:25 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+03:05:25 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+03:05:25 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+03:05:25 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+03:05:29 PM: INFO [menu_app.py:21] Salimos de la aplicacion
+03:23:37 PM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+03:23:37 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+03:23:37 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+03:23:37 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+03:23:37 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+03:23:37 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+03:25:41 PM: INFO [menu_app.py:24] Usuarios insertados: 1
