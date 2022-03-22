@@ -14,59 +14,56 @@ class PersonaDAO:
 
     @classmethod
     def seleccionar(cls):
-        conexion = Conexion.obtenerConexion()
-        cursor = conexion.cursor()
-        cursor.execute(cls._SELECCIONAR)
-        registros = cursor.fetchall()
-        conexion.close()
-        personas = []
-        for registro in registros:
-            persona = Persona(registro[0], registro[1], registro[2], registro[3])
-            personas.append(persona)
-        return personas
+        with Conexion.obtenerCursor() as cursor:
+            cursor.execute(cls._SELECCIONAR)
+            registros = cursor.fetchall()
+            print(registros)
+            personas = []
+            for registro in registros:
+                persona = Persona(registro[0], registro[1], registro[2], registro[3])
+                personas.append(persona)
+            Conexion.cerrarConexion()
+            return personas
 
     @classmethod
     def insertar(cls, persona):
-        with Conexion.obtenerConexion() as conexion:
-            with conexion.cursor() as cursor:
-                valores = (persona.nombre, persona.email, persona.passe)
-                cursor.execute(cls._INSERTAR, valores)
-                conexion.commit()
-                log.debug(f'Persona insertada: {persona}')
-                return cursor.rowcount
+       with Conexion.obtenerCursor() as cursor:
+            valores = (persona.nombre, persona.email, persona.passe)
+            cursor.execute(cls._INSERTAR, valores)
+            log.debug(f'Persona insertada: {persona}')
+            Conexion.cerrarConexion()
+            return cursor.rowcount
     
     @classmethod
     def actualizar(cls, persona):
-        with Conexion.obtenerConexion() as conexion:
-            with conexion.cursor() as cursor:
-                valores = (persona.nombre, persona.email, persona.passe, persona.id_persona)
-                cursor.execute(cls._ACTUALIZAR, valores)
-                conexion.commit()
-                log.debug(f'Persona actualizada: {persona}')
-                return cursor.rowcount
+        with Conexion.obtenerConexion().cursor() as cursor:
+            valores = (persona.nombre, persona.email, persona.passe, persona.id_persona)
+            cursor.execute(cls._ACTUALIZAR, valores)
+            log.debug(f'Persona actualizada: {persona}')
+            Conexion.cerrarConexion()
+            return cursor.rowcount
 
     @classmethod
     def eliminar(cls, persona):
-        with Conexion.obtenerConexion() as conexion:
-            with conexion.cursor() as cursor:
-                valores = (persona.id_persona)
-                cursor.execute(cls._ELIMINAR, valores)
-                conexion.commit()
-                log.debug(f'Persona eliminada: {persona}')
-                return cursor.rowcount
+        with Conexion.obtenerConexion().cursor() as cursor:
+            valores = (persona.id_persona)
+            cursor.execute(cls._ELIMINAR, valores)
+            log.debug(f'Persona eliminada: {persona}')
+            Conexion.cerrarConexion()
+            return cursor.rowcount
 
 
     
 if __name__ == '__main__':
     #Insertar un registro
-    persona1 = Persona(nombre='Nieve', email='nieve@gmail.com', passe=555)
+    '''persona1 = Persona(nombre='ELy', email='Ely@gmail.com', passe=655)
     personas_insertadas = PersonaDAO.insertar(persona1)
-    log.debug(f'Personas insertadas: {personas_insertadas}')
+    log.debug(f'Personas insertadas: {personas_insertadas}')'''
 
     #Seleccionar objetos
-    '''personas = PersonaDAO.seleccionar()
+    personas = PersonaDAO.seleccionar()
     for persona in personas:
-        log.debug(persona)'''
+        log.debug(persona)
 
     #Actualizar un registro
     '''persona2 = Persona(1, 'Aura', 'aura@mail.com', 789)

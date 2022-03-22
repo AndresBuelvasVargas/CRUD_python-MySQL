@@ -383,3 +383,789 @@
             Email: nieve@gmail.com, Password: 555
         
 03:25:41 PM: INFO [menu_app.py:24] Usuarios insertados: 1
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:05:29 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:13:50 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:31:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:31:43 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:33:56 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:33:58 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:35:19 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:35:20 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:35:37 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:35:42 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:37:43 AM: INFO [menu_app.py:39] Salimos de la aplicacion!
+10:43:34 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:43:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+10:45:35 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+10:45:51 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Jairo,
+            Email: jairo@mail.com, Password: 789
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:02:45 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:03:08 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+11:03:23 AM: INFO [menu_app.py:37] Usuarios eliminados: 1
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:03:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:05:10 AM: INFO [menu_app.py:37] Usuarios eliminados: 1
+11:06:04 AM: INFO [menu_app.py:39] Salimos de la aplicacion!
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:10:37 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:11:04 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:11:07 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:11:13 AM: INFO [menu_app.py:39] Salimos de la aplicacion!
+11:18:11 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:18:28 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:18:47 AM: INFO [menu_app.py:39] Salimos de la aplicacion!
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:26:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:32:08 AM: INFO [menu_app.py:24] Usuarios insertados: 1
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+11:32:40 AM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+11:33:03 AM: INFO [menu_app.py:39] Salimos de la aplicacion!
+11:36:30 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x0000023971067580>
+11:36:30 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000239710678B0>
+11:36:30 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x00000239710675E0>
+11:36:30 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x00000239710B4460>
+11:40:42 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000001A9A26DF550>
+11:40:42 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001A9A26DF880>
+11:40:42 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000001A9A26DF5B0>
+11:40:42 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000001A9A2724430>
+11:43:15 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000002803B01F550>
+11:43:15 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000002803B01F880>
+11:43:15 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000002803B01F5B0>
+11:43:15 AM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: ELy,
+            Email: Ely@gmail.com, Password: 655
+        
+11:43:15 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000002803B064460>
+11:43:15 AM: DEBUG [persona_dao.py:63] Personas insertadas: 1
+11:45:41 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x00000195C543F580>
+11:45:41 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000195C543F8B0>
+11:45:41 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x00000195C543F5E0>
+11:45:41 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x00000195C54842E0>
+11:48:13 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F148C6F580>
+11:48:13 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x000001F148C6F8B0>
+11:48:13 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F148C6F5E0>
+11:48:13 AM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: ELy,
+            Email: Ely@gmail.com, Password: 655
+        
+11:48:13 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x000001F148CB4460>
+11:48:13 AM: DEBUG [persona_dao.py:63] Personas insertadas: 1
+11:49:46 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x0000027DD6B7F550>
+11:49:46 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000027DD6B7F880>
+11:49:46 AM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: ELy,
+            Email: Ely@gmail.com, Password: 655
+        
+11:49:46 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x0000027DD6B7F5B0>
+11:49:46 AM: DEBUG [persona_dao.py:63] Personas insertadas: 1
+11:53:32 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x0000029ED892F580>
+11:53:32 AM: INFO [conexion.py:33] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000029ED892F8B0>
+11:53:32 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x0000029ED892F5E0>
+11:53:32 AM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: ELy,
+            Email: Ely@gmail.com, Password: 655
+        
+11:53:32 AM: INFO [conexion.py:23] Conexión exitosa: <pymysql.connections.Connection object at 0x0000029ED8974460>
+11:53:32 AM: DEBUG [persona_dao.py:63] Personas insertadas: 1
+12:17:55 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x000001FA5968F5B0>
+12:17:55 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x000001FA5968F610>
+12:17:55 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x000001FA596D4580>
+12:17:55 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: ELy,
+            Email: Ely@gmail.com, Password: 655
+        
+12:17:55 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x000001FA596D42E0>
+12:17:55 PM: DEBUG [persona_dao.py:63] Personas insertadas: 1
+12:18:32 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x00000175DCF9FF70>
+12:18:32 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x00000175DCF9FF10>
+12:18:32 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x00000175DEC63280>
+12:20:48 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x00000277C618F640>
+12:20:48 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x00000277C618F7C0>
+12:20:48 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: ELy,
+            Email: Ely@gmail.com, Password: 655
+        
+12:20:48 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x00000277C61D43A0>
+12:20:48 PM: DEBUG [persona_dao.py:60] Personas insertadas: 1
+12:22:53 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x000002551E69FF70>
+12:22:53 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x000002551E69FF10>
+12:22:53 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x00000255203C32E0>
+12:24:36 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x000002077AFEFF70>
+12:24:36 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x000002077AFEFF10>
+12:29:08 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000020BBAB9FF70>
+12:29:08 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x0000020BBAB9FF10>
+12:29:45 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018E0362FF40>
+12:29:45 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x0000018E03A60220>
+12:29:45 PM: DEBUG [persona_dao.py:32] Persona insertada: 
+            Id Persona: None, Nombre: sam,
+            Email: sam@mail.com, Password: 456
+        
+12:29:45 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018E05323910>
+12:29:45 PM: INFO [menu_app.py:24] Usuarios insertados: 1
+12:30:33 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018E0362FF70>
+12:30:33 PM: DEBUG [persona_dao.py:41] Persona actualizada: 
+            Id Persona: 42, Nombre: samy,
+            Email: samy@gmail.com, Password: 789
+        
+12:30:33 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018E053239D0>
+12:30:33 PM: INFO [menu_app.py:32] Usuarios modificados: 1
+12:30:56 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018E03A60670>
+12:30:56 PM: DEBUG [persona_dao.py:50] Persona eliminada: 
+            Id Persona: 41, Nombre: None,
+            Email: None, Password: None
+        
+12:30:56 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x0000018E05323940>
+12:30:56 PM: INFO [menu_app.py:37] Usuarios eliminados: 1
+12:31:08 PM: INFO [menu_app.py:39] Salimos de la aplicacion!
+12:37:38 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x00000261ED20B8E0>
+12:37:38 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x00000261ED20B3D0>
+12:40:44 PM: INFO [conexion.py:25] Conexión exitosa: <pymysql.connections.Connection object at 0x000002A4FD61B8E0>
+12:40:44 PM: INFO [conexion.py:35] Se abrió correctamente el cursor: <pymysql.cursors.DictCursor object at 0x000002A4FD61B3D0>
+12:47:47 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025C2964FF70>
+12:47:47 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000025C2964FF10>
+12:47:47 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025C2B393310>
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+12:47:47 PM: INFO [menu_app.py:17] 
+            Id Persona: 42, Nombre: samy,
+            Email: samy@gmail.com, Password: 789
+        
+12:48:11 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025C29B50C70>
+12:48:11 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000025C29AB3730>
+12:48:11 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None, Nombre: joel,
+            Email: joel@gmail.com, Password: 15678879
+        
+12:48:11 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025C2B393A30>
+12:48:11 PM: INFO [menu_app.py:24] Usuarios insertados: 1
+12:48:30 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025C29B50C70>
+12:48:30 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000025C2B393A30>
+12:48:30 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000025C2964FF10>
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 1, Nombre: Aura,
+            Email: aura@mail.com, Password: 789
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 42, Nombre: samy,
+            Email: samy@gmail.com, Password: 789
+        
+12:48:30 PM: INFO [menu_app.py:17] 
+            Id Persona: 43, Nombre: joel,
+            Email: joel@gmail.com, Password: 15678879
+        
+12:50:03 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014864F5FF10>
+12:50:03 PM: DEBUG [persona_dao.py:51] Persona eliminada: 
+            Id Persona: 1, Nombre: None,
+            Email: None, Password: None
+        
+12:50:03 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014866C23940>
+12:50:03 PM: INFO [menu_app.py:37] Usuarios eliminados: 1
+12:50:05 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014864F5FF10>
+12:50:05 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000014865390670>
+12:50:05 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014866C23A30>
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Juanito,
+            Email: juanito@mail.com, Password: 123
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 42, Nombre: samy,
+            Email: samy@gmail.com, Password: 789
+        
+12:50:05 PM: INFO [menu_app.py:17] 
+            Id Persona: 43, Nombre: joel,
+            Email: joel@gmail.com, Password: 15678879
+        
+12:50:48 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014864F5FF40>
+12:50:48 PM: DEBUG [persona_dao.py:42] Persona actualizada: 
+            Id Persona: 21, Nombre: Pedro,
+            Email: Pedro01@gmail.com, Password: 7895335
+        
+12:50:48 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014866C23E50>
+12:50:48 PM: INFO [menu_app.py:32] Usuarios modificados: 1
+12:50:52 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x00000148653906D0>
+12:50:52 PM: INFO [conexion.py:34] Se abrió correctamente el cursor: <pymysql.cursors.Cursor object at 0x0000014864F5FF40>
+12:50:52 PM: INFO [conexion.py:24] Conexión exitosa: <pymysql.connections.Connection object at 0x0000014865390220>
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 2, Nombre: samely,
+            Email: samely@gmail.com, Password: 321
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 3, Nombre: pan,
+            Email: pan@gmail.com, Password: 456
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 17, Nombre: Andys,
+            Email: Andys@gmail.com, Password: 589
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 19, Nombre: Auron,
+            Email: auron@mail.com, Password: 789
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 20, Nombre: Nieve,
+            Email: nieve@gmail.com, Password: 555
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 21, Nombre: Pedro,
+            Email: Pedro01@gmail.com, Password: 7895335
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 42, Nombre: samy,
+            Email: samy@gmail.com, Password: 789
+        
+12:50:52 PM: INFO [menu_app.py:17] 
+            Id Persona: 43, Nombre: joel,
+            Email: joel@gmail.com, Password: 15678879
+        
+12:51:00 PM: INFO [menu_app.py:39] Salimos de la aplicacion!
